@@ -14,7 +14,6 @@ public class MapIntro2 {
         System.out.print(" ");
         System.out.println(x);
     });
-    map.
 }
     
 }
