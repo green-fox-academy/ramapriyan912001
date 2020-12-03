@@ -22,5 +22,6 @@ public class Anagram {
             }
         }
         return answer;
+        // Return anagram
     }
 }
