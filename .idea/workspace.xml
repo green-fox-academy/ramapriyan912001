@@ -19,15 +19,55 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0e5a84c-903a-4840-9e30-b4685f8f4c38" name="Default Changelist" comment="" />
+    <list default="true" id="f0e5a84c-903a-4840-9e30-b4685f8f4c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/day-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/Josepheus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/MapIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/MapIntro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/SimpleReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/TakesLonger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/TodoPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-4/src/UrlFixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/War/Armada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/War/BattleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/War/Pirates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/War/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/War/WarApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/PostIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/Sharpie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/day-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-01/day-5/src/something.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ramapriyan912001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ramapriyan912001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-4/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1l8DiXn98b2RMBwghCEQSE5C55t" />
   <component name="ProjectViewState">
@@ -36,12 +76,40 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week-01/day-4" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week-01" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-01/day-5/src" />
+      <recent name="$PROJECT_DIR$/week-01" />
+      <recent name="$PROJECT_DIR$/day-5" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-01" />
+      <recent name="$USER_HOME$/IdeaProjects" />
+      <recent name="$PROJECT_DIR$/day-4/src" />
+      <recent name="$PROJECT_DIR$/day-5/src" />
       <recent name="$PROJECT_DIR$/week-01/day-4" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="something" />
+      <module name="ramapriyan912001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.something" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,10 +135,32 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606970438628">
+    <state x="316" y="92" key="#Project_Structure" timestamp="1607077725591">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1606970438628" />
+    <state x="316" y="92" key="#Project_Structure/0.23.1792.1026@0.23.1792.1026" timestamp="1607077725591" />
+    <state x="316" y="92" key="#Project_Structure/0.23.1792.1028@0.23.1792.1028" timestamp="1607076604600" />
+    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607075970274">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1607075686566" />
+    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1607075970274" />
+    <state width="1617" height="263" key="GridCell.Tab.0.bottom" timestamp="1607077924760">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1617" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924760" />
+    <state width="1617" height="263" key="GridCell.Tab.0.center" timestamp="1607077924759">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1617" height="263" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924759" />
+    <state width="1617" height="263" key="GridCell.Tab.0.left" timestamp="1607077924759">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1617" height="263" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924759" />
+    <state width="1617" height="263" key="GridCell.Tab.0.right" timestamp="1607077924760">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1617" height="263" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924760" />
     <state x="486" y="220" key="RollbackChangesDialog" timestamp="1606970220042">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
@@ -79,9 +169,23 @@
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="358" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606970164900" />
-    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606970151911">
+    <state x="556" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607077424109">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026" timestamp="1607072007777" />
+    <state x="556" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1028@0.23.1792.1028" timestamp="1607077424109" />
+    <state x="428" y="133" key="new project wizard" timestamp="1607076698159">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="428" y="133" key="new project wizard/0.23.1792.1028@0.23.1792.1028" timestamp="1607076698159" />
+    <state x="428" y="133" key="new project wizard/0.23.1792.1030@0.23.1792.1030" timestamp="1607076424568" />
+    <state x="658" y="235" key="run.anything.popup" timestamp="1607075815848">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606970151911" />
+    <state x="658" y="235" key="run.anything.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1607075815848" />
+    <state x="658" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1607068541292">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="658" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1607068541292" />
   </component>
 </project>

@@ -1,0 +1,368 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f0e5a84c-903a-4840-9e30-b4685f8f4c38\" name=\"Default Changelist\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1l8DiXn98b2RMBwghCEQSE5C55t\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/week-01/day-4\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/week-01/day-4\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"f0e5a84c-903a-4840-9e30-b4685f8f4c38\" name=\"Default Changelist\" comment=\"\" />\n      <created>1606969951284</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1606969951284</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"223\" y=\"172\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1606970438628\">\n      <screen x=\"0\" y=\"23\" width=\"1792\" height=\"1026\" />\n    </state>\n    <state x=\"223\" y=\"172\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026\" timestamp=\"1606970438628\" />\n    <state x=\"486\" y=\"220\" key=\"RollbackChangesDialog\" timestamp=\"1606970220042\">\n      <screen x=\"0\" y=\"23\" width=\"1792\" height=\"1026\" />\n    </state>\n    <state x=\"486\" y=\"220\" key=\"RollbackChangesDialog/0.23.1792.1026@0.23.1792.1026\" timestamp=\"1606970220042\" />\n    <state x=\"358\" y=\"250\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1606970164900\">\n      <screen x=\"0\" y=\"23\" width=\"1792\" height=\"1026\" />\n    </state>\n    <state x=\"358\" y=\"250\" key=\"Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026\" timestamp=\"1606970164900\" />\n    <state x=\"556\" y=\"431\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1606970151911\">\n      <screen x=\"0\" y=\"23\" width=\"1792\" height=\"1026\" />\n    </state>\n    <state x=\"556\" y=\"431\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026\" timestamp=\"1606970151911\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 1438b3f4f68dc7dc799fc52e9f72b77a0f1f53c5)
++++ .idea/workspace.xml	(date 1607077247451)
+@@ -19,7 +19,24 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f0e5a84c-903a-4840-9e30-b4685f8f4c38" name="Default Changelist" comment="" />
++    <list default="true" id="f0e5a84c-903a-4840-9e30-b4685f8f4c38" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/day-5/src/Animal.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/day-5/src/BlogPost.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/day-5/src/Counter.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/day-5/src/CounterTest.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/day-5/src/PostIt.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/day-5/src/Sharpie.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/day-5/src/Testing.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/Josepheus.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Josepheus.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/MapIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/MapIntro.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/MapIntro2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/MapIntro2.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/Reverse.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/SimpleReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/SimpleReplace.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/TakesLonger.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/TakesLonger.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/TodoPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/TodoPrint.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/week-01/day-4/UrlFixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/src/UrlFixer.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -36,11 +53,20 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week-01/day-4" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/day-4/src" />
++    <property name="project.structure.last.edited" value="Modules" />
++    <property name="project.structure.proportion" value="0.15" />
++    <property name="project.structure.side.proportion" value="0.2" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/day-4/src" />
++      <recent name="$PROJECT_DIR$/day-5/src" />
+       <recent name="$PROJECT_DIR$/week-01/day-4" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$" />
++      <recent name="$PROJECT_DIR$/week-01" />
+     </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -67,10 +93,15 @@
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606970438628">
+-      <screen x="0" y="23" width="1792" height="1026" />
++    <state x="316" y="92" key="#Project_Structure" timestamp="1607076604600">
++      <screen x="0" y="23" width="1792" height="1028" />
++    </state>
++    <state x="316" y="92" key="#Project_Structure/0.23.1792.1028@0.23.1792.1028" timestamp="1607076604600" />
++    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607075970274">
++      <screen x="0" y="23" width="1792" height="1028" />
+     </state>
+-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1606970438628" />
++    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1607075686566" />
++    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1607075970274" />
+     <state x="486" y="220" key="RollbackChangesDialog" timestamp="1606970220042">
+       <screen x="0" y="23" width="1792" height="1026" />
+     </state>
+@@ -79,9 +110,22 @@
+       <screen x="0" y="23" width="1792" height="1026" />
+     </state>
+     <state x="358" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606970164900" />
+-    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606970151911">
++    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607072007777">
+       <screen x="0" y="23" width="1792" height="1026" />
+     </state>
+-    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026" timestamp="1606970151911" />
++    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026" timestamp="1607072007777" />
++    <state x="428" y="133" key="new project wizard" timestamp="1607076698159">
++      <screen x="0" y="23" width="1792" height="1028" />
++    </state>
++    <state x="428" y="133" key="new project wizard/0.23.1792.1028@0.23.1792.1028" timestamp="1607076698159" />
++    <state x="428" y="133" key="new project wizard/0.23.1792.1030@0.23.1792.1030" timestamp="1607076424568" />
++    <state x="658" y="235" key="run.anything.popup" timestamp="1607075815848">
++      <screen x="0" y="23" width="1792" height="1026" />
++    </state>
++    <state x="658" y="235" key="run.anything.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1607075815848" />
++    <state x="658" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1607068541292">
++      <screen x="0" y="23" width="1792" height="1028" />
++    </state>
++    <state x="658" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1607068541292" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: day-5/src/PostIt.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/PostIt.java	(date 1607063495047)
++++ day-5/src/PostIt.java	(date 1607063495047)
+@@ -0,0 +1,18 @@
++public class PostIt {
++    public String backgroundColour;
++    public String text;
++    public String textColour;
++
++    public PostIt(String backgroundColour, String text, String textColour) {
++        this.backgroundColour = backgroundColour;
++        this.text = text;
++        this.textColour = textColour;
++    }
++
++    public static void main(String[] args) {
++        PostIt postIt1 = new PostIt("Orange", "Idea 1", "Blue");
++        PostIt postIt2 = new PostIt("Pink", "Awesome", "Black");
++        PostIt postIt3 = new PostIt("Ywllow", "Superb", "Green");
++    }
++
++}
+\ No newline at end of file
+Index: day-5/src/Sharpie.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/Sharpie.java	(date 1607074610441)
++++ day-5/src/Sharpie.java	(date 1607074610441)
+@@ -0,0 +1,16 @@
++package Sharpie;
++
++public class Sharpie {
++    public String colour;
++    public float width;
++    public float inkAmount = 100;
++
++    public Sharpie(String colour, float width) {
++        this.colour = colour;
++        this.width = width;
++    }
++
++    public void use() {
++        this.inkAmount -= 20;
++    }
++}
+\ No newline at end of file
+Index: day-5/src/Animal.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/Animal.java	(date 1607068481153)
++++ day-5/src/Animal.java	(date 1607068481153)
+@@ -0,0 +1,17 @@
++public class Animal {
++    public int hunger = 50;
++    public int thirst = 50;
++
++    public void eat() {
++        this.hunger -= 1;
++    }
++
++    public void drink() {
++        this.thirst -= 1;
++    }
++
++    public void play() {
++        this.hunger += 1;
++        this.thirst += 1;
++    }
++}
+\ No newline at end of file
+Index: day-5/src/Testing.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/Testing.java	(date 1607076244752)
++++ day-5/src/Testing.java	(date 1607076244752)
+@@ -0,0 +1,19 @@
++package Counter;
++
++import java.util.ArrayList;
++import java.util.List;
++
++public class Testing {
++    public static void main(String[] args) {
++        ArrayList<Counter> counters = new ArrayList<>();
++        List<Counter> counters2 = new ArrayList<>();
++        ArrayList<Counter> counters3 = (ArrayList<Counter>) counters.clone();
++        Counter counter = new Counter(20);
++        counters.add(counter);
++        counters2.add(counter);
++        counter = new Counter(12);
++        System.out.println(counters);
++        System.out.println(counters2);
++
++    }
++}
+Index: day-5/src/Counter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/Counter.java	(date 1607074894163)
++++ day-5/src/Counter.java	(date 1607074894163)
+@@ -0,0 +1,44 @@
++//import static org.junit.jupiter.api.Assertions.*;
++package Counter;
++import java.util.ArrayList;
++
++public class Counter {
++    private int counter;
++    private ArrayList<Integer> history;
++
++    public Counter(int counter) {
++        this.counter = counter;
++        this.history = new ArrayList<>();
++        history.add(counter);
++    }
++
++    public int getCounter() {
++        return this.counter;
++    }
++    public Counter() {
++        this.counter = 0;
++        this.history = new ArrayList<>();
++        history.add(0);
++    }
++
++    public Counter add() {
++        return this.add(1);
++    }
++
++    public Counter add(int number) {
++        this.counter += number;
++        this.history.add(counter);
++        return this;
++    }
++
++    public Counter reset() {
++        this.counter = history.get(history.size()-2);
++        history.remove(Integer.valueOf(history.size()-1));
++        return this;
++    }
++
++    public String toString() {
++        return String.valueOf(this.counter);
++    }
++
++}
+\ No newline at end of file
+Index: day-5/src/CounterTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/CounterTest.java	(date 1607075608609)
++++ day-5/src/CounterTest.java	(date 1607075608609)
+@@ -0,0 +1,50 @@
++import static org.junit.jupiter.api.Test;
++import static org.junit.jupiter.api.Assertions.*;
++
++/**
++ * Created by aze on 2017.03.29..
++ */
++class CounterTest {
++
++    Counter c = new Counter();
++
++    c.getCounter()*=2;
++
++    @Test
++    void addMore() {
++        c.add(5);
++        assertEquals(5, c.get());
++    }
++
++    @Test
++    void addOne() {
++        c.add();
++        assertEquals(1, c.get());
++    }
++
++    @Test
++    void getZero() {
++        assertEquals(0, c.get());
++    }
++
++    @Test
++    void getInit() {
++        Counter c = new Counter(7);
++        assertEquals(7, c.get());
++    }
++
++    @Test
++    void resetToZero() {
++        c.add();
++        c.reset();
++        assertEquals(0, c.get());
++    }
++
++    @Test
++    void resetToInit() {
++        Counter c = new Counter(7);
++        c.add(5);
++        c.reset();
++        assertEquals(7, c.get());
++    }
++}
+Index: day-5/src/BlogPost.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- day-5/src/BlogPost.java	(date 1607072058326)
++++ day-5/src/BlogPost.java	(date 1607072058326)
+@@ -0,0 +1,17 @@
++public class BlogPost {
++    public String authorName;
++    public String title;
++    public String text;
++    public String publicationDate;
++
++    public BlogPost(String authorName, String title, String text, String publicationDate) {
++        this.authorName = authorName;
++        this.title = title;
++        this.text = text;
++        this.publicationDate = publicationDate;
++    }
++
++    public static void main(String[] args) {
++        // This task is quite straightforward.
++    }
++}
+\ No newline at end of file
+diff --git week-01/day-4/TakesLonger.java day-4/src/TakesLonger.java
+rename from week-01/day-4/TakesLonger.java
+rename to day-4/src/TakesLonger.java
+diff --git week-01/day-4/TodoPrint.java day-4/src/TodoPrint.java
+rename from week-01/day-4/TodoPrint.java
+rename to day-4/src/TodoPrint.java
+diff --git week-01/day-4/UrlFixer.java day-4/src/UrlFixer.java
+rename from week-01/day-4/UrlFixer.java
+rename to day-4/src/UrlFixer.java
+diff --git week-01/day-4/Josepheus.java day-4/src/Josepheus.java
+rename from week-01/day-4/Josepheus.java
+rename to day-4/src/Josepheus.java
+diff --git week-01/day-4/MapIntro.java day-4/src/MapIntro.java
+rename from week-01/day-4/MapIntro.java
+rename to day-4/src/MapIntro.java
+diff --git week-01/day-4/MapIntro2.java day-4/src/MapIntro2.java
+rename from week-01/day-4/MapIntro2.java
+rename to day-4/src/MapIntro2.java
+diff --git week-01/day-4/Reverse.java day-4/src/Reverse.java
+rename from week-01/day-4/Reverse.java
+rename to day-4/src/Reverse.java
+diff --git week-01/day-4/SimpleReplace.java day-4/src/SimpleReplace.java
+rename from week-01/day-4/SimpleReplace.java
+rename to day-4/src/SimpleReplace.java
