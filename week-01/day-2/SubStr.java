@@ -15,7 +15,7 @@ public class SubStr {
     }
   
     public static int subStr(String input, String q) {
+
         return input.indexOf(q);
       }
-    }
-  }
+}
