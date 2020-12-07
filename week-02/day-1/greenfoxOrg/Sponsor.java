@@ -20,12 +20,12 @@ public class Sponsor extends Person{
 
     @Override
     public void getGoal() {
-        System.out.println(getGoalHelper() + String.format(" Hire brilliant junior software developers."));
+        System.out.println(super.getGoalHelper() + String.format(" Hire brilliant junior software developers."));
     }
 
     @Override
     public void introduce() {
-        System.out.println(introduceHelper() + String.format(" who represents %s and hired %d students so far.",
+        System.out.println(super.introduceHelper() + String.format(" who represents %s and hired %d students so far.",
                 company, hiredStudents));
     }
 }

@@ -17,12 +17,12 @@ public class Student extends Person{
 
     @Override
     public void getGoal(){
-        System.out.println(getGoalHelper() + " Be a junior software developer.");
+        System.out.println(super.getGoalHelper() + " Be a junior software developer.");
     }
 
     @Override
     public void introduce() {
-        System.out.println(introduceHelper() + String.format
+        System.out.println(super.introduceHelper() + String.format
                 (" from %s who skipped %d days from the course already.", previousOrganisation, skippedDays));
     }
 
