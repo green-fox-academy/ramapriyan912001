@@ -20,9 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0e5a84c-903a-4840-9e30-b4685f8f4c38" name="Default Changelist" comment="Monday 11::00AM Update">
-      <change afterPath="$PROJECT_DIR$/week-02/day-2/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/CountLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/Double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/PrintEachLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/WriteMultipleLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/WriteSingleLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/double.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/loremIpsum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-02/day-2/my-file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ramapriyan912001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ramapriyan912001.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-1/Aircraft/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-1/Aircraft/Carrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-2/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-2/Testing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +54,30 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l8DiXn98b2RMBwghCEQSE5C55t" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week-01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week-02" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-02" />
       <recent name="$PROJECT_DIR$/week-01" />
       <recent name="$USER_HOME$/IdeaProjects" />
       <recent name="$PROJECT_DIR$/day-4/src" />
       <recent name="$PROJECT_DIR$/day-5/src" />
-      <recent name="$PROJECT_DIR$/week-01/day-4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week-01/day-5" />
@@ -70,16 +87,37 @@
       <recent name="$PROJECT_DIR$/day-5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Candyshop">
-    <configuration name="Candyshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Candyshop" />
+  <component name="RunManager" selected="Application.Copy">
+    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Copy" />
       <module name="ramapriyan912001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="something" />
+    <configuration name="CountLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountLines" />
+      <module name="ramapriyan912001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divide" />
+      <module name="ramapriyan912001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintEachLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintEachLine" />
+      <module name="ramapriyan912001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteMultipleLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WriteMultipleLines" />
       <module name="ramapriyan912001" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,8 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Candyshop" />
-        <item itemvalue="Application.something" />
+        <item itemvalue="Application.Copy" />
+        <item itemvalue="Application.WriteMultipleLines" />
+        <item itemvalue="Application.CountLines" />
+        <item itemvalue="Application.PrintEachLine" />
+        <item itemvalue="Application.Divide" />
       </list>
     </recent_temporary>
   </component>
@@ -138,63 +179,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="End of Day 5" />
     <MESSAGE value="Monday 11::00AM Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Monday 11::00AM Update" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="316" y="92" key="#Project_Structure" timestamp="1607309506446">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="316" y="92" key="#Project_Structure/0.23.1792.1026@0.23.1792.1026" timestamp="1607077725591" />
-    <state x="316" y="92" key="#Project_Structure/0.23.1792.1028@0.23.1792.1028" timestamp="1607309506446" />
-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607075970274">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1607075686566" />
-    <state x="223" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1607075970274" />
-    <state width="1617" height="263" key="GridCell.Tab.0.bottom" timestamp="1607077924760">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state width="1617" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924760" />
-    <state width="1617" height="263" key="GridCell.Tab.0.center" timestamp="1607077924759">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state width="1617" height="263" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924759" />
-    <state width="1617" height="263" key="GridCell.Tab.0.left" timestamp="1607077924759">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state width="1617" height="263" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924759" />
-    <state width="1617" height="263" key="GridCell.Tab.0.right" timestamp="1607077924760">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state width="1617" height="263" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1607077924760" />
-    <state x="486" y="220" key="RollbackChangesDialog" timestamp="1606970220042">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state x="486" y="220" key="RollbackChangesDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1606970220042" />
-    <state x="358" y="250" key="Vcs.Push.Dialog.v2" timestamp="1607310039707">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="358" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1607079774165" />
-    <state x="358" y="250" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1607310039707" />
-    <state x="556" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607077424109">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="556" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1026@0.23.1792.1026" timestamp="1607072007777" />
-    <state x="556" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1028@0.23.1792.1028" timestamp="1607077424109" />
-    <state x="428" y="133" key="new project wizard" timestamp="1607076698159">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="428" y="133" key="new project wizard/0.23.1792.1028@0.23.1792.1028" timestamp="1607076698159" />
-    <state x="428" y="133" key="new project wizard/0.23.1792.1030@0.23.1792.1030" timestamp="1607076424568" />
-    <state x="658" y="235" key="run.anything.popup" timestamp="1607075815848">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state x="658" y="235" key="run.anything.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1607075815848" />
-    <state x="658" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1607068541292">
-      <screen x="0" y="23" width="1792" height="1028" />
-    </state>
-    <state x="658" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1607068541292" />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ramapriyan912001$DivideByZero.ic" NAME="DivideByZero Coverage Results" MODIFIED="1607406330920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
