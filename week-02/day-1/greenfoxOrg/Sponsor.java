@@ -1,4 +1,4 @@
-public class Sponsor extends Person{
+public class Sponsor extends Person2 {
     private String company;
     private int hiredStudents;
 

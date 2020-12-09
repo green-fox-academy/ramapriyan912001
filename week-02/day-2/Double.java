@@ -20,7 +20,7 @@ public class Double {
 
             }
         } catch (IOException e) {
-            System.out.println("Well that was unexpected!")
+            System.out.println("Well that was unexpected!");
         }
     }
 
@@ -38,6 +38,8 @@ public class Double {
             if (tracker != arr[i]) {
                 tracker = arr[i];
             } else {
+
+            }
         }
     }
 }

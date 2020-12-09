@@ -1,4 +1,4 @@
-public class Mentor extends Person{
+public class Mentor extends Person {
     private String level;
 
     public Mentor(String name, int age, String gender, String level) {
