@@ -1,6 +1,6 @@
 package date;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

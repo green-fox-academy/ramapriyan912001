@@ -1,7 +1,6 @@
 package date;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
@@ -9,34 +8,34 @@ public class BirthdayCalculatorWithLocalDate implements BirthdayCalculator<Local
 
     @Override
     public LocalDate parseDate(String str) {
-        // return with the parsed date; format is: yyyy-MM-dd
+        return LocalDate.parse(str);
     }
 
     @Override
     public String printMonthAndDay(LocalDate date) {
-        // return the date formatted: month & day (MM. dd.)
+        return ((LocalDate) date).getMonth().toString() + " " + ((LocalDate) date).getDayOfMonth();
     }
 
     @Override
     public boolean isAnniversaryToday(LocalDate date) {
-        // return with true if today is the same month+day as date
+        return LocalDate.now().isEqual((LocalDate)date);
     }
 
     @Override
     public int calculateAgeInYears(LocalDate birthday) {
-        // return how many years age the input date 'birthday' was
+        return LocalDate.now().getYear()-((LocalDate)birthday).getYear();
     }
 
     @Override
     public int calculateDaysToNextAnniversary(LocalDate date) {
-        // the number of days remaining to the next anniversary of 'date' (e.g. if tomorrow, return 1)
+        return (int) ChronoUnit.DAYS.between(((LocalDate)date), LocalDate.now());
     }
 
     public static void main(String[] args) {
         new BirthdayWithLocalDate().run();
     }
 
-    private void run() {
+    protected void run() {
 
         print("Birthday with java.util.Date.");
         String birthdayStr = readInput("What day were you born (yyyy-mm-dd)?");
