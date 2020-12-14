@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CompilerConfiguration">
-    <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/week-02/day-1/Aircraft/F35.java" />
-    </excludeFromCompile>
-  </component>
-</project>
