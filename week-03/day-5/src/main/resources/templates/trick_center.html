@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div th:insert="Nutrition_Store::links"></div>
+<form th:action="'/trickcenterPost'" method="post">
+<div th:insert="login::nameSelect"></div>
+<label th:text="'tricks'" for="tricks"></label>
+<select name="tricks" id="tricks">
+    <option th:text="'write HTML'" th:value="'write HTML'"></option>
+    <option th:text="'code in Java'" th:value="'code In Java'"></option>
+</select>
+<input type="submit" value="Learn">
+</form>
+</body>
+</html>

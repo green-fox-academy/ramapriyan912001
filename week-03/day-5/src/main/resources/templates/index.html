@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body th:object="${fox}">
+<u1>
+    <li><a href = "https://www.google.com/" target = "_blank">  <u>Information</u></a></li>
+</u1>
+<br>
+<img src="greenfox.jpg" width="200" height="200">
+<p th:text = "'This is ' + *{getName()} + '. Currently living on ' + *{getFood()} + ' and ' +*{getDrink()} +'. He knows ' +
+*{getNumberOfTricks()} + ' tricks.'"></p>
+<h1>Known tricks</h1>
+<ul>
+    <li th:each="trick : *{getTricks()}" th:object="${trick}" th:text="${trick}"</li>
+</ul>
+<p th:text= "*{getNumberOfTricks()} == '0' ? 'You know no tricks, yet. Go and learn some.' : ''"></p>
+</body>
+</html>
+
